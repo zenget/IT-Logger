@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 5,
-      "message": "Changed memory on workstation 0502",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2021-07-13T14:46:35.451Z"
-    },
-    {
       "message": "Changed hard drive on workstation 005",
       "attention": false,
       "tech": "Sam Smith",
